@@ -1,5 +1,22 @@
 {
     "cSpell.words": [
-        "columnnotes"
+        "columnnotes",
+        "Dapr",
+        "fasthttp",
+        "GOARCH",
+        "GOCACHE",
+        "GOMODCACHE",
+        "GOMODULE",
+        "GOPATH",
+        "goprojects",
+        "GOPROXY",
+        "GOROOT",
+        "Griesemer",
+        "hellomodule",
+        "helloworld",
+        "Istio",
+        "myangvgo",
+        "Println",
+        "valyala"
     ]
 }
