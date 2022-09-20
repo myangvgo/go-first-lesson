@@ -13,3 +13,5 @@
 [Go语言第一课05](./columnnotes/Go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E8%AF%BE05.md)
 
 [Go语言第一课06](./columnnotes/Go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E8%AF%BE06.md)
+
+[Go语言第一课07](./columnnotes/Go%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%B8%80%E8%AF%BE07.md)
